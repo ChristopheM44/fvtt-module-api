@@ -10,11 +10,11 @@
     "packs": [],
     "url": "https://github.com/ChristopheM44/fvtt-module-api/",
     "manifest": "https://github.com/ChristopheM44/fvtt-module-api/blob/master/module.json",
-    "download": "https://github.com/kakaroto/fvtt-module-api/archive/v0.4.1.zip",
+    "download": "https://github.com/ChristopheM44/fvtt-module-api/archive/master.zip",
     "minimumCoreVersion": "0.8.0",
     "compatibleCoreVersion": "9",
     "compatibility": {
         "minimum": "0.8.0",
         "verified": "12"
     }
-}
+}https://github.com/ChristopheM44/fvtt-module-api/archive/refs/heads/master.zip
