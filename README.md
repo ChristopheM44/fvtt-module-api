@@ -14,6 +14,13 @@ The response you receive will be a json object with a boolean `success` field to
 
 For the API to work, you must be already logged in with the same browser, and all API calls will be sent as that user.
 
+# 0.5
+✅ Optimized cookie reading
+✅ Simplified URL parameter parsing with URLSearchParams
+✅ Cleaner argument retrieval with Object.keys().map()
+✅ Improved WebSocket handling (reconnection, error management)
+✅ Readable JSON formatting for the response in the page
+
 # Examples
 
 Get the entire world data : 
